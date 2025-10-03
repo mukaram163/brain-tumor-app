@@ -82,4 +82,4 @@ st.sidebar.write("Model: **Custom CNN (Conv2D + Dense layers)**")
 st.sidebar.write("Loss: *Categorical Crossentropy* | Optimizer: *Adam*")
 st.sidebar.write("Metrics: Accuracy")
 
-st.sidebar.markdown("👨‍💻 Created by [Your Name] - Connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)")
+st.sidebar.markdown("👨‍💻 Created by [Mukaram Ali] - Connect on [LinkedIn](https://www.linkedin.com/in/mukaram-ali-a05061279/)")
