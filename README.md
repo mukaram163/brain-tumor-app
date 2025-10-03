@@ -18,8 +18,8 @@ This project uses a Convolutional Neural Network (CNN) to classify brain MRI ima
 - Tested on 1,311 MRI images
 
 ## 🔗 Live Demo
-👉 [App Link will go here after deployment]
+👉 (https://brain-tumor-app-aenuqlnzzjzcqksz4nmf4r.streamlit.app/)
 
 ## 👨‍💻 Author
-Created by **Your Name**  
-📍 Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
+Created by **Mukaram Ali**  
+📍 Connect with me on [LinkedIn](https://linkedin.com/in/mukaram-ali-a05061279/)
